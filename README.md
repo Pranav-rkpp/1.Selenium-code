@@ -1,5 +1,8 @@
 # Selenium-code
-Version: 
+# Vision
+My moto is to replicate this repository into corporate standard. Multinational companies have a format where employees prepare a reverse KT (knowledge Transfer) document to pass their learning. The same way I tried to put the things together. 
+
+# Version: 
 1. Selenium 3.141.59
 2. java version "17.0.7" 2023-04-18 LTS                                                               
    Java(TM) SE Runtime Environment (build 17.0.7+8-LTS-224)                                                        
