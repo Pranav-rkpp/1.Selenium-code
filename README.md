@@ -14,7 +14,7 @@ This whole repository contains the concept of selenium concepts with correspondi
 
 Before diving into code, we need minimum knowledge about the concepts theoretically. So that I have prepared a single document which consist all sort of concepts. This document acts as a brush up tool. With the help of this doc file, we will surely understand the vision of preparing this repository.
 
-#Note: I have mentioned the file name along with path. @Selenium-code/Selenium.docx
+#Note: I have mentioned the file name along with path. @1.Selenium-code/Selenium.docx
 
 
 
